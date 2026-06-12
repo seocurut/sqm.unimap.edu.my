@@ -15,12 +15,12 @@
 <meta name="title" content="LANDAKTOTO #1 Bandar Slot Dana 5K Terpercaya dengan Link Resmi Slot777 Gacor Mudah Menang Hari Ini">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://sqm.unimap.edu.my/">
-<link rel="amphtml" href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp">
-<link rel="alternate" hreflang="id-id" href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp"/>
-<link rel="alternate" href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp"/>
-<link rel="alternate" hreflang="id" href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp"/>
-<link rel="alternate" hreflang="en" href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp"/>
-<link rel="alternate" hreflang="x-default" href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp"/>
+<link rel="amphtml" href="https://sqm-unimap-edu-my.pages.dev/amp">
+<link rel="alternate" hreflang="id-id" href="https://sqm-unimap-edu-my.pages.dev/amp"/>
+<link rel="alternate" href="https://sqm-unimap-edu-my.pages.dev/amp"/>
+<link rel="alternate" hreflang="id" href="https://sqm-unimap-edu-my.pages.dev/amp"/>
+<link rel="alternate" hreflang="en" href="https://sqm-unimap-edu-my.pages.dev/amp"/>
+<link rel="alternate" hreflang="x-default" href="https://sqm-unimap-edu-my.pages.dev/amp"/>
 <meta name="publisher" content="Slot Gacor">
 <meta name="description" content="LANDAKTOTO adalah bandar slot Dana 5K terpercaya yang menyediakan link resmi Slot777 terbaru dengan pilihan permainan slot gacor RTP tinggi. Nikmati proses daftar cepat, transaksi Dana 24 jam, bonus menarik, serta peluang menang besar dan maxwin setiap hari bersama LANDAKTOTO.">
 <meta name="keywords"content="landaktoto, slot777 resmi, link slot777 terbaru, slot gacor hari ini, situs slot terpercaya, slot online dana, slot gampang menang"/>
@@ -29,17 +29,17 @@
 <meta name="twitter:title" content="LANDAKTOTO #1 Bandar Slot Dana 5K Terpercaya dengan Link Resmi Slot777 Gacor Mudah Menang Hari Ini">
 <meta name="twitter:description" content="LANDAKTOTO adalah bandar slot Dana 5K terpercaya yang menyediakan link resmi Slot777 terbaru dengan pilihan permainan slot gacor RTP tinggi. Nikmati proses daftar cepat, transaksi Dana 24 jam, bonus menarik, serta peluang menang besar dan maxwin setiap hari bersama LANDAKTOTO.">
 <meta name="twitter:url" content="https://sqm.unimap.edu.my/">
-<meta name="twitter:image" content="https://gambar-cuan.pages.dev/landaktoto/logolandak.gif">
+<meta name="twitter:image" content="https://sqm-unimap-edu-my.pages.dev/logolandak.gif">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Slot777">
 <meta property="og:locale" content="id_ID">
 <meta property="og:url" content="https://sqm.unimap.edu.my/">
 <meta property="og:title" content="LANDAKTOTO #1 Bandar Slot Dana 5K Terpercaya dengan Link Resmi Slot777 Gacor Mudah Menang Hari Ini">
 <meta property="og:description" content="LANDAKTOTO adalah bandar slot Dana 5K terpercaya yang menyediakan link resmi Slot777 terbaru dengan pilihan permainan slot gacor RTP tinggi. Nikmati proses daftar cepat, transaksi Dana 24 jam, bonus menarik, serta peluang menang besar dan maxwin setiap hari bersama LANDAKTOTO.">
-<meta property="og:image" content="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png">
-<link rel="icon" type="image/png" sizes="96x96" href="https://gambar-cuan.pages.dev/landaktoto/faviconlandak.png">
-<link rel="shortcut icon" href="https://gambar-cuan.pages.dev/landaktoto/faviconlandak.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://gambar-cuan.pages.dev/landaktoto/faviconlandak.png">
+<meta property="og:image" content="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://sqm-unimap-edu-my.pages.dev/faviconlandak.png">
+<link rel="shortcut icon" href="https://sqm-unimap-edu-my.pages.dev/faviconlandak.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://sqm-unimap-edu-my.pages.dev/faviconlandak.png">
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/global/css/fonts.min.8a18f528e82f16d7420d24afc5dbd284.css" rel="stylesheet" type="text/css">
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/id.min.d4a873f5ad80fabc15ee8200be9ce4ea.css" rel="stylesheet" type="text/css">
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346.css" rel="stylesheet" type="text/css">
@@ -702,7 +702,7 @@ digitalData.page.pageInfo.pageName = pageName;
         "@id": "https://sqm.unimap.edu.my/#organization",
         "name": "slot77",
         "url": "https://sqm.unimap.edu.my/",
-        "logo": "https://gambar-cuan.pages.dev/landaktoto/logolandak.gif",
+        "logo": "https://sqm-unimap-edu-my.pages.dev/logolandak.gif",
         "sameAs": [
           "https://facebook.com/slot777",
           "https://instagram.com/slot777",
@@ -755,7 +755,7 @@ digitalData.page.pageInfo.pageName = pageName;
         "@id": "https://sqm.unimap.edu.my/demo#product",
         "name": "slot online",
         "image": [
-          "https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png"
+          "https://sqm-unimap-edu-my.pages.dev/bannerlandak.png"
         ],
         "description": "LANDAKTOTO adalah bandar slot Dana 5K terpercaya yang menyediakan link resmi Slot777 terbaru dengan pilihan permainan slot gacor RTP tinggi. Nikmati proses daftar cepat, transaksi Dana 24 jam, bonus menarik, serta peluang menang besar dan maxwin setiap hari bersama LANDAKTOTO.",
         "brand": {
@@ -829,7 +829,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "@id": "https://sqm.unimap.edu.my//apk-slot-gacor#product",
               "name": "slot terbaru",
               "url": "https://sqm.unimap.edu.my//apk-slot-gacor",
-              "image": "https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png",
+              "image": "https://sqm-unimap-edu-my.pages.dev/bannerlandak.png",
               "description": "LANDAKTOTO adalah bandar slot Dana 5K terpercaya yang menyediakan link resmi Slot777 terbaru dengan pilihan permainan slot gacor RTP tinggi. Nikmati proses daftar cepat, transaksi Dana 24 jam, bonus menarik, serta peluang menang besar dan maxwin setiap hari bersama LANDAKTOTO.",
               "brand": {
                 "@type": "Brand",
@@ -858,7 +858,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "@id": "https://sqm.unimap.edu.my//#product",
               "name": "situs SLOT777",
               "url": "https://sqm.unimap.edu.my/",
-              "image": "https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png",
+              "image": "https://sqm-unimap-edu-my.pages.dev/bannerlandak.png",
               "description": "LANDAKTOTO adalah bandar slot Dana 5K terpercaya yang menyediakan link resmi Slot777 terbaru dengan pilihan permainan slot gacor RTP tinggi. Nikmati proses daftar cepat, transaksi Dana 24 jam, bonus menarik, serta peluang menang besar dan maxwin setiap hari bersama LANDAKTOTO.",
               "brand": {
                 "@type": "Brand",
@@ -887,7 +887,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "@id": "https://sqm.unimap.edu.my//Apk-Slot-Gacor#product",
               "name": "slot777",
               "url": "https://sqm.unimap.edu.my//Apk-Slot-Gacor",
-              "image": "https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png",
+              "image": "https://sqm-unimap-edu-my.pages.dev/bannerlandak.png",
               "description": "LANDAKTOTO adalah bandar slot Dana 5K terpercaya yang menyediakan link resmi Slot777 terbaru dengan pilihan permainan slot gacor RTP tinggi. Nikmati proses daftar cepat, transaksi Dana 24 jam, bonus menarik, serta peluang menang besar dan maxwin setiap hari bersama LANDAKTOTO.",
               "brand": {
                 "@type": "Brand",
@@ -922,7 +922,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "@id": "https://sqm.unimap.edu.my/#org",
       "name": "slot777",
       "url": "https://sqm.unimap.edu.my/",
-      "logo": "https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png"
+      "logo": "https://sqm-unimap-edu-my.pages.dev/bannerlandak.png"
     },
     {
       "@type": "WebSite",
@@ -1049,7 +1049,7 @@ digitalData.page.pageInfo.pageName = pageName;
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
        <a an-ac="gnb" an-ca="navigation" an-la="SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="SLOT" class="nv00-gnb-v4__logo" href="https://sqm.unimap.edu.my/">
-        <img src="https://gambar-cuan.pages.dev/landaktoto/logolandak.gif" alt="" width="200" height="56">
+        <img src="https://sqm-unimap-edu-my.pages.dev/logolandak.gif" alt="" width="200" height="56">
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
         <button an-ac="gnb" an-ca="navigation" an-la="search" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-search gnb__search-btn-js" data-js-action="search">
@@ -2877,14 +2877,14 @@ digitalData.page.pageInfo.pageName = pageName;
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Galaxy A07 Front Black " style="display: block;">
              <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="javascript:void(0);">
               <div class="image">
-               <img alt="Galaxy A07 Front Black " class="image__main responsive-img" data-comp-name="image" data-desktop-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" data-mobile-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img" src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png">
+               <img alt="Galaxy A07 Front Black " class="image__main responsive-img" data-comp-name="image" data-desktop-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" data-mobile-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img" src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png">
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Galaxy A07 Back Black " style="display: none;">
              <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="javascript:void(0);">
               <div class="image">
-               <img alt="Galaxy A07 Back Black " class="image__main responsive-img" data-comp-name="image" data-desktop-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" data-mobile-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img" src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png">
+               <img alt="Galaxy A07 Back Black " class="image__main responsive-img" data-comp-name="image" data-desktop-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" data-mobile-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img" src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png">
               </div>
              </a>
             </li>
@@ -3141,35 +3141,35 @@ digitalData.page.pageInfo.pageName = pageName;
            <li class="hdd02-gallery__thumbnail-item hdd02-gallery__thumbnail-item--on" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Front Black " class="image__main" data-comp-name="image" role="img" src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png">
+              <img alt="Galaxy A07 Front Black " class="image__main" data-comp-name="image" role="img" src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png">
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Back Black " class="image__main" data-comp-name="image" role="img" src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png">
+              <img alt="Galaxy A07 Back Black " class="image__main" data-comp-name="image" role="img" src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png">
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 BackL30 Black " class="image__main" data-comp-name="image" role="img" src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png">
+              <img alt="Galaxy A07 BackL30 Black " class="image__main" data-comp-name="image" role="img" src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png">
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 BackR30 Black " class="image__main" data-comp-name="image" role="img" src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png">
+              <img alt="Galaxy A07 BackR30 Black " class="image__main" data-comp-name="image" role="img" src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png">
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Front2 Black " class="image__main" data-comp-name="image" role="img" src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png">
+              <img alt="Galaxy A07 Front2 Black " class="image__main" data-comp-name="image" role="img" src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png">
              </div>
             </a>
            </li>
@@ -3194,63 +3194,63 @@ digitalData.page.pageInfo.pageName = pageName;
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </a>
                 </li>
@@ -3265,12 +3265,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3280,12 +3280,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3295,12 +3295,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3310,12 +3310,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3325,12 +3325,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3340,12 +3340,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3355,12 +3355,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3370,12 +3370,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3385,12 +3385,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" role="img">
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -4150,8 +4150,8 @@ digitalData.page.pageInfo.pageName = pageName;
 </div></div>
 
     <div class="cta-buttons-gold">
-        <a href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-        <a href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+        <a href="https://sqm-unimap-edu-my.pages.dev/amp" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+        <a href="https://sqm-unimap-edu-my.pages.dev/amp" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
     </div>
 </div>
 
@@ -4267,7 +4267,7 @@ digitalData.page.pageInfo.pageName = pageName;
        
        <!-- N -->
        <script data-id="aac44b1f-0962-428e-af28-1f4e53562d11" data-object-type="Product" data-type="seo" type="application/ld+json">
-        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Situs SLOT","image":"https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png","description":"slot77 - Lihat keunggulan dan fitur lengkap produk slot gacor hari ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"MS-F813QBDUIDZ","offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
+        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Situs SLOT","image":"https://sqm-unimap-edu-my.pages.dev/bannerlandak.png","description":"slot77 - Lihat keunggulan dan fitur lengkap produk slot gacor hari ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"MS-F813QBDUIDZ","offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
        </script>
        <!--googleoff: all true-->
        <div class="sdf-component-templates" id="sg-pdh-dynamic-template-assembly">
@@ -7121,17 +7121,17 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp" an-as="">
+                  <a class="footer-category__link" href="https://sqm-unimap-edu-my.pages.dev/amp" an-as="">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp" an-as="">
+                  <a class="footer-category__link" href="https://sqm-unimap-edu-my.pages.dev/amp" an-as="">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp" an-as="">
+                  <a class="footer-category__link" href="https://sqm-unimap-edu-my.pages.dev/amp" an-as="">
                     Lupa Password
                   </a>
                 </li>
@@ -12132,10 +12132,10 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         <!-- Border mewah -->
         <div class="luxury-border"></div>
         <div class="SLOT">
-            <img src="https://gambar-cuan.pages.dev/landaktoto/bannerlandak15.png" alt="Popup Banner" class="popup-image">
+            <img src="https://sqm-unimap-edu-my.pages.dev/bannerlandak.png" alt="Popup Banner" class="popup-image">
             <div class="clk-btn-sgp" style="font-size: 20px;">
-                <a href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://adu-keras-bang.pages.dev/sqm.unimap.edu.my/amp" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://sqm-unimap-edu-my.pages.dev/amp" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://sqm-unimap-edu-my.pages.dev/amp" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
             </div>
             <div class="popup-footer">
                 LANDAKTOTO #1 Bandar Slot Dana 5K Terpercaya dengan Link Resmi Slot777 Gacor Mudah Menang Hari Ini<br>
